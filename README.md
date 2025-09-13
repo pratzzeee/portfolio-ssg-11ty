@@ -1,3 +1,7 @@
+## Website Preview
+![Alt text](/dark.png?raw=true)
+![Alt text](/light.png?raw=true)
+<!--
 ## Getting started locally
 
 1. Clone this repo
@@ -21,3 +25,4 @@ npm i
 To watch for changes in Eleventy and Stylus, use `npm run dev`
 
 To build without watching for changes, use `npm run build`
+..>
