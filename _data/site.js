@@ -1,6 +1,6 @@
 module.exports = {
   meta: {
-    title: "My Purple Blog",
+    title: "Prathyush Maniyam",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     lang: "en",
     siteUrl: "https://example.com/",
@@ -14,7 +14,7 @@ module.exports = {
     authorEmail: "johndoe@example.com"
   },
   hero: { // used in hero section of main page ie. index.html.njk
-    title: "Welcome to my purple blog",
-    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores accusantium deserunt odio esse."
+    title: "Welcome to my Portfolio",
+    description: "Hey, I’m pratzzeee 👋 I’m a 29-year-old grad student who finished a master’s in Business Analytics at UTD. Lately, I’ve been obsessed with learning new skills, pushing my limits, and hacking my brain."
   }
 }

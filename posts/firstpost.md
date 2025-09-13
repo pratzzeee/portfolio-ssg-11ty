@@ -1,28 +1,40 @@
 ---
-title: My very first post
-date: 2021-03-10
-description: Nesciunt nulla quisquam magnam libero consequatur debitis est, dolorum quam excepturi soluta
+author: Me
+title: Tesla Clone with React & Redux
+date: 2025-09-13
+description: A responsive Tesla website clone built using React.js, Redux, and Firebase Authentication.
 tags:
-  - hello
-  - css
-  - nice
+ - react
+ - redux
+ - firebase
+ - responsive design
+ - web development
 ---
 
-hello
+This project is a **responsive Tesla website clone** developed using **React.js**, **Redux**, and **Firebase Authentication**. It replicates the core features of the Tesla homepage, including smooth scrolling, dynamic car components, and a persistent user dashboard.
 
-## wow nice h2 there
+For the live demo, visit: [Tesla Clone Demo](https://tesla-clone-1000.web.app/)
 
+## Features
 
-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est, minima voluptates maxime quaerat qui, cumque temporibus libero nesciunt explicabo quasi eos, fugit voluptatem impedit expedita! Nesciunt nulla quisquam magnam libero consequatur debitis est, dolorum quam excepturi soluta ipsa aspernatur optio eveniet corporis sunt eaque beatae assumenda a ullam aliquid ad.
+- **Responsive Design**: Fully responsive layout optimized for desktop and mobile devices.
+- **Navigation**: Active navbar with smooth scrolling, similar to the original Tesla website.
+- **Dynamic Components**: Separate components for each Tesla car model, displaying relevant information.
+- **Authentication**: Email and password authentication using Firebase, with persistent login state.
+- **User Dashboard**: Personalized dashboard accessible from the account tab, displaying user-specific information.
 
-Reprehenderit officia labore debitis quae neque fugiat iste sed, maiores nisi eligendi consequatur nesciunt possimus rem earum quidem inventore architecto praesentium, cum maxime, quaerat ipsam? Ea molestiae consequatur mollitia tempore expedita alias dicta quam tenetur vitae dolor magnam velit quod quisquam explicabo illo, ab eaque molestias reiciendis repellat fugiat culpa optio a earum nisi. 
+## Tech Stack
 
-### Vero corporis ipsa facere tenetur explicabo 
+- **Frontend**: React.js, React Router, Material-UI, Styled Components
+- **State Management**: Redux, Redux Toolkit
+- **Authentication**: Firebase Authentication
+- **Animations**: AOS (Animate On Scroll)
 
-totam expedita delectus reprehenderit est eum. Eius, tenetur praesentium tempore dicta culpa labore sit hic similique at nesciunt temporibus perspiciatis aliquid dolorem esse voluptatem quis, cupiditate, aspernatur illo ipsam. 
+## Installation
 
-#### Deleniti provident nobis 
+To run this project locally:
 
-maxime, qui molestias ex recusandae, magni consectetur iure nostrum sequi suscipit harum corrupti autem consequuntur animi veritatis? Eos laudantium quod beatae repudiandae accusamus fuga, adipisci tenetur odio nihil commodi optio ipsam voluptates quam esse reiciendis! 
-
-Eligendi inventore nesciunt veritatis mollitia cum! Veniam placeat saepe iure ab eius, ipsa quisquam voluptas quod ad libero ipsum vel officiis ullam eum.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/pratzzeee/tesla-clone-react-redux.git
+   cd tesla-clone-react-redux
