@@ -2,12 +2,12 @@
 
 1. Clone this repo
 ```
-git clone https://github.com/ar363/eleventy-stylus-blog-theme my-blog
+git clone https://github.com/pratzzeee/portfolio-ssg-11ty.git my-portfolio
 ```
 
 2. Navigate to the blog directory
 ```
-cd my-blog
+cd my-portfolio
 ```
 
 3. Install dependencies
